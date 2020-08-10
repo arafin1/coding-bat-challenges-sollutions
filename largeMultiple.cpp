@@ -35,6 +35,9 @@ cout<<km(500,500,2);
 return  0;
 }
 
+//Karatsuba Mutiplication
+//Arafin Saad
+//arafinsaad@gmail.com
 
 #include<iostream>
 #include<math.h>
@@ -75,6 +78,9 @@ cout<<karatsuba(x,y)<<endl;
 return 0;
 }
 
+//Karatsuba Mutiplication
+//Arafin Saad
+//arafinsaad@gmail.com
 
 #include <stdio.h>
 #include <math.h>
